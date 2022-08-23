@@ -1,3 +1,5 @@
-Version=v10.8.4
-Code=195
-Url=https://www.modyolo.com/
+{
+  "latestVersion": "10.8.4",
+  "latestVersionCode": "195",
+  "url": "https://modyolo.com/librivox-audiobooks.html"
+}
