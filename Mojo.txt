@@ -1,3 +1,0 @@
-Version=v1.20.0
-Code=69911200
-Url=https://modyolo.com/librivox-audiobooks.html/
